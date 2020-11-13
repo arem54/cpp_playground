@@ -147,7 +147,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="D:\repos\CPP\timing.cpp" />
     <ClCompile Include="src\playground.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="cpp_playground.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
